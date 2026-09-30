@@ -1,0 +1,6968 @@
+{
+  "settings": {
+    "mode": "private",
+    "autoAI": false,
+    "autoStatusSeen": false,
+    "viewOnceInbox": false,
+    "antiCall": false,
+    "autoReact": false,
+    "messageHistoryEnabled": false,
+    "keywordReplies": {},
+    "autoDownload": false,
+    "backgroundSync": false
+  },
+  "sudo": [],
+  "banned": [],
+  "users": {
+    "120363173523767269": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 0,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 0,
+      "msgXpDay": 0,
+      "msgXpToday": 0,
+      "lastMsgXp": 0,
+      "lastBody": "",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": null,
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "120363210753792797": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 0,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 0,
+      "msgXpDay": 0,
+      "msgXpToday": 0,
+      "lastMsgXp": 0,
+      "lastBody": "",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": null,
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "111931981623550": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 3,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 3,
+      "lastMsgXp": 1790682219474,
+      "lastBody": "Teldeyim",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 1,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "91745652101236": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 25,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 3,
+      "msgXpDay": 20725,
+      "msgXpToday": 25,
+      "lastMsgXp": 1790695766888,
+      "lastBody": "Cem ethan enyalius itini şamarlıyor video ismi",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 3,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "130468708118616": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 40,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 7,
+      "msgXpDay": 20725,
+      "msgXpToday": 40,
+      "lastMsgXp": 1790696016214,
+      "lastBody": "hepsi eşit",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "27586759512245": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 36,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 4,
+      "msgXpDay": 20725,
+      "msgXpToday": 36,
+      "lastMsgXp": 1790686571822,
+      "lastBody": "Не лги",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "19422630691067": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 48,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 7,
+      "msgXpDay": 20725,
+      "msgXpToday": 48,
+      "lastMsgXp": 1790695628959,
+      "lastBody": "Elifimi",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 7,
+            "done": false
+          },
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "141657366360248": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 0,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 0,
+      "msgXpDay": 0,
+      "msgXpToday": 0,
+      "lastMsgXp": 0,
+      "lastBody": "",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": null,
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "108525485338862": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 38,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 5,
+      "msgXpDay": 20725,
+      "msgXpToday": 38,
+      "lastMsgXp": 1790695762619,
+      "lastBody": "Aşaşaşwğw",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "170820110434336": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 10,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 10,
+      "lastMsgXp": 1790682220176,
+      "lastBody": "Cem ne diyo",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 1,
+            "done": false
+          },
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "227874237886594": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 15,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 2,
+      "msgXpDay": 20725,
+      "msgXpToday": 15,
+      "lastMsgXp": 1790682281875,
+      "lastBody": "arkada bagırma la",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 2,
+            "done": false
+          },
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "63373014257741": {
+      "balance": 0,
+      "bank": 0,
+      "xp": 97,
+      "lastDaily": 1790695475122,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 13,
+      "msgXpDay": 20725,
+      "msgXpToday": 97,
+      "lastMsgXp": 1790695834000,
+      "lastBody": "@141657366360248",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 13,
+            "done": false
+          },
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 1,
+      "character": null,
+      "ttsLang": null
+    },
+    "204325116727397": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 31,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 4,
+      "msgXpDay": 20725,
+      "msgXpToday": 31,
+      "lastMsgXp": 1790686956709,
+      "lastBody": "Harbi diom",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 4,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "9140227280953": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 81,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 11,
+      "msgXpDay": 20725,
+      "msgXpToday": 81,
+      "lastMsgXp": 1790696051121,
+      "lastBody": "Obez cuhenna",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 11,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "20771166535812": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 9,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 9,
+      "lastMsgXp": 1790686257326,
+      "lastBody": "Kuzennnnn",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "250581713203206": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 6,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 6,
+      "lastMsgXp": 1790686264727,
+      "lastBody": "He otobüsteyim",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 1,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "28639496294590": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 5,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 5,
+      "lastMsgXp": 1790686265814,
+      "lastBody": "@all LAN KİM @94185008980214'E YAVŞADI AYRICA ÇOCUĞU NİYE PANNELLEDİNİZ VE YETMEMİŞ GİBİ CİNSEL SALDIRIYA MARUS KALDI BU ÇOCUK OKULDA SİZİ ŞİKAYET EDİYO YAPMAYIN YA",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 1,
+            "done": false
+          },
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "86543809134660": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 20,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 3,
+      "msgXpDay": 20725,
+      "msgXpToday": 20,
+      "lastMsgXp": 1790695701980,
+      "lastBody": "Tamam",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "196430916526192": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 28,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 4,
+      "msgXpDay": 20725,
+      "msgXpToday": 28,
+      "lastMsgXp": 1790686543309,
+      "lastBody": "Wpdpspwpwpwpwpwpwpw",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "68629567688804": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 10,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 10,
+      "lastMsgXp": 1790686294323,
+      "lastBody": "Uyandim",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 1,
+            "done": false
+          },
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "168410700869873": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 7,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 7,
+      "lastMsgXp": 1790686296519,
+      "lastBody": "Bismillah noluyo😰",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 1,
+            "done": false
+          },
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "94185008980214": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 8,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 8,
+      "lastMsgXp": 1790686303538,
+      "lastBody": "Gizli numarandan arıyor",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 1,
+            "done": false
+          },
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "120363429390654989": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 0,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 0,
+      "msgXpDay": 0,
+      "msgXpToday": 0,
+      "lastMsgXp": 0,
+      "lastBody": "",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": null,
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "88610208526522": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 4,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 4,
+      "lastMsgXp": 1790686332028,
+      "lastBody": "efendim askım",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 1,
+            "done": false
+          },
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "127844298575987": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 12,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 2,
+      "msgXpDay": 20725,
+      "msgXpToday": 12,
+      "lastMsgXp": 1790686586262,
+      "lastBody": "bune kardesım",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "21157579346018": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 8,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 8,
+      "lastMsgXp": 1790686352984,
+      "lastBody": "Slm",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 1,
+            "done": false
+          },
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "60666949968000": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 26,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 3,
+      "msgXpDay": 20725,
+      "msgXpToday": 26,
+      "lastMsgXp": 1790686958050,
+      "lastBody": "Anlamadım ne icin",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 3,
+            "done": false
+          },
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "41236064899154": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 16,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 2,
+      "msgXpDay": 20725,
+      "msgXpToday": 16,
+      "lastMsgXp": 1790686516001,
+      "lastBody": "Lan avel seni suan ifsalara destek olduğun icin",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 2,
+            "done": false
+          },
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "11167636431088": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 9,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 2,
+      "msgXpDay": 20725,
+      "msgXpToday": 9,
+      "lastMsgXp": 1790686542149,
+      "lastBody": "Destek değilim",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "96027382169714": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 6,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 6,
+      "lastMsgXp": 1790686499723,
+      "lastBody": "As",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 1,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "39943799869493": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 6,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 6,
+      "lastMsgXp": 1790686656788,
+      "lastBody": "menrbr",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "75072001847425": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 4,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 4,
+      "lastMsgXp": 1790686766922,
+      "lastBody": "Harbiden",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 1,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "221444638253101": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 3,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 3,
+      "lastMsgXp": 1790693223212,
+      "lastBody": "meteee",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 1,
+            "done": false
+          },
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "150581972840464": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 5,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 5,
+      "lastMsgXp": 1790694015798,
+      "lastBody": "📌 Ruhunun Rengi Bugün Hangisi❓️\n\n❤️ Kırmızı — Tutku\n🧡 Turuncu — Neşe\n💛 Sarı — Umut\n💚 Yeşil — Huzur\n💙 Mavi — Hüzün\n💜 Mor — Gizem\n🖤 Siyah — Yorgunluk\n🤍 Beyaz — Sakinlik",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 1,
+            "done": false
+          },
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "18958807785629": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 0,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 0,
+      "msgXpDay": 0,
+      "msgXpToday": 0,
+      "lastMsgXp": 0,
+      "lastBody": "",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": null,
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "274920990838861": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 16,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 2,
+      "msgXpDay": 20725,
+      "msgXpToday": 16,
+      "lastMsgXp": 1790695372549,
+      "lastBody": "ge",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 2,
+            "done": false
+          },
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "120363420539254657": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 0,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 0,
+      "msgXpDay": 0,
+      "msgXpToday": 0,
+      "lastMsgXp": 0,
+      "lastBody": "",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": null,
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "24610816966835": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 9,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 2,
+      "msgXpDay": 20725,
+      "msgXpToday": 9,
+      "lastMsgXp": 1790695569300,
+      "lastBody": "@123992149102658 hi baby",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "254559020650528": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 14,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 2,
+      "msgXpDay": 20725,
+      "msgXpToday": 14,
+      "lastMsgXp": 1790695371640,
+      "lastBody": "he",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 2,
+            "done": false
+          },
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "120363405348740845": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 0,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 0,
+      "msgXpDay": 0,
+      "msgXpToday": 0,
+      "lastMsgXp": 0,
+      "lastBody": "",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": null,
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "140454775492776": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 13,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 2,
+      "msgXpDay": 20725,
+      "msgXpToday": 13,
+      "lastMsgXp": 1790695621843,
+      "lastBody": "SIKILDIM",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "35992178298970": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 10,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 10,
+      "lastMsgXp": 1790694018130,
+      "lastBody": "Uyku",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "193415916568604": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 3,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 3,
+      "lastMsgXp": 1790694018208,
+      "lastBody": "Ne konusuyonuz",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 1,
+            "done": false
+          },
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "14607334826203": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 0,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 0,
+      "msgXpDay": 0,
+      "msgXpToday": 0,
+      "lastMsgXp": 0,
+      "lastBody": "",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": null,
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "905331344009": {
+      "balance": 12500,
+      "bank": 0,
+      "xp": 0,
+      "lastDaily": 1790695467327,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 0,
+      "msgXpDay": 0,
+      "msgXpToday": 0,
+      "lastMsgXp": 0,
+      "lastBody": "",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "243722549772515": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 4,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 4,
+      "lastMsgXp": 1790695371582,
+      "lastBody": "A.s",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "34914510573723": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 5,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 5,
+      "lastMsgXp": 1790695371670,
+      "lastBody": "he",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "177107489570821": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 10,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 10,
+      "lastMsgXp": 1790695371963,
+      "lastBody": "he",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "41030527279284": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 0,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 0,
+      "msgXpDay": 0,
+      "msgXpToday": 0,
+      "lastMsgXp": 0,
+      "lastBody": "",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": null,
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "156642087825660": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 3,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 3,
+      "lastMsgXp": 1790695374888,
+      "lastBody": "Kim",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "609969303613": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 11,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 2,
+      "msgXpDay": 20725,
+      "msgXpToday": 11,
+      "lastMsgXp": 1790695696906,
+      "lastBody": "cabuk bj oynıcam",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 2,
+            "done": false
+          },
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "123992149102658": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 5,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 5,
+      "lastMsgXp": 1790695696183,
+      "lastBody": "hi!",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "218171889987835": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 8,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 8,
+      "lastMsgXp": 1790695710191,
+      "lastBody": "Yoktu",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 1,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "177902511472796": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 7,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 7,
+      "lastMsgXp": 1790695742500,
+      "lastBody": "Benide aradilar",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 1,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "88404050104372": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 3,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 3,
+      "lastMsgXp": 1790695805947,
+      "lastBody": "Neden 😔",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "earn50k",
+            "desc": "💰 Toplam 50.000 TL kazan (iş+oyun)",
+            "type": "earn",
+            "target": 50000,
+            "reward": 20000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "8736668180635": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 18,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 2,
+      "msgXpDay": 20725,
+      "msgXpToday": 18,
+      "lastMsgXp": 1790696036582,
+      "lastBody": ".antilink on delete",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "work3",
+            "desc": "💼 3 iş tamamla",
+            "type": "job",
+            "target": 3,
+            "reward": 15000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 2,
+            "done": false
+          },
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "151965388517548": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 10,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 1,
+      "msgXpDay": 20725,
+      "msgXpToday": 10,
+      "lastMsgXp": 1790695994769,
+      "lastBody": ".spofty lanet kel",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": {
+        "day": 20725,
+        "list": [
+          {
+            "id": "win3",
+            "desc": "🎲 3 kumar oyunu kazan",
+            "type": "win",
+            "target": 3,
+            "reward": 25000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "bigjob1",
+            "desc": "🌾 Bir maden ya da çiftlik işi yap",
+            "type": "bigjob",
+            "target": 1,
+            "reward": 8000,
+            "progress": 0,
+            "done": false
+          },
+          {
+            "id": "msg20",
+            "desc": "💬 Grupta 20 mesaj yaz",
+            "type": "msg",
+            "target": 20,
+            "reward": 10000,
+            "progress": 1,
+            "done": false
+          }
+        ]
+      },
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    },
+    "217278100541532": {
+      "balance": 5000,
+      "bank": 0,
+      "xp": 0,
+      "lastDaily": 0,
+      "inventory": [],
+      "shield": 0,
+      "cd": {},
+      "msgs": 0,
+      "msgXpDay": 0,
+      "msgXpToday": 0,
+      "lastMsgXp": 0,
+      "lastBody": "",
+      "bj": null,
+      "notes": [],
+      "afk": null,
+      "lang": null,
+      "tempEffect": null,
+      "marriedTo": null,
+      "kids": [],
+      "debt": 0,
+      "lastInterestDay": 0,
+      "achievements": [],
+      "quests": null,
+      "gameWinsTotal": 0,
+      "character": null,
+      "ttsLang": null
+    }
+  },
+  "groups": {
+    "120363412276485827@g.us": {
+      "antilink": false,
+      "anticaps": false,
+      "antispam": false,
+      "antiflood": false,
+      "antibot": false,
+      "antiBadword": false,
+      "badWords": [],
+      "botPrefixes": [],
+      "warnLimit": 3,
+      "warns": {},
+      "antitag": false,
+      "pmblocker": false,
+      "autoread": false,
+      "autotyping": false,
+      "welcomeEnabled": true,
+      "welcome": "Hoş geldin @user 👋",
+      "goodbyeEnabled": false,
+      "goodbye": "Görüşürüz @user 👋",
+      "chatbotEnabled": false,
+      "keywords": {},
+      "mutes": {},
+      "rules": [],
+      "scheduled": [],
+      "antidelete": false,
+      "antiedit": false,
+      "autoDownload": false,
+      "backgroundSync": false,
+      "autoApprove": false,
+      "announceRequests": true,
+      "auction": null
+    },
+    "905524317852-1595592147@g.us": {
+      "antilink": false,
+      "anticaps": false,
+      "antispam": false,
+      "antiflood": false,
+      "antibot": false,
+      "antiBadword": false,
+      "badWords": [],
+      "botPrefixes": [],
+      "warnLimit": 3,
+      "warns": {},
+      "antitag": false,
+      "pmblocker": false,
+      "autoread": false,
+      "autotyping": false,
+      "welcomeEnabled": true,
+      "welcome": "Hoş geldin @user 👋",
+      "goodbyeEnabled": false,
+      "goodbye": "Görüşürüz @user 👋",
+      "chatbotEnabled": false,
+      "keywords": {},
+      "mutes": {},
+      "rules": [],
+      "scheduled": [],
+      "antidelete": false,
+      "antiedit": false,
+      "autoDownload": false,
+      "backgroundSync": false,
+      "autoApprove": false,
+      "announceRequests": true,
+      "auction": null
+    },
+    "34639105260-1337426671@g.us": {
+      "antilink": false,
+      "anticaps": false,
+      "antispam": false,
+      "antiflood": false,
+      "antibot": false,
+      "antiBadword": false,
+      "badWords": [],
+      "botPrefixes": [],
+      "warnLimit": 3,
+      "warns": {},
+      "antitag": false,
+      "pmblocker": false,
+      "autoread": false,
+      "autotyping": false,
+      "welcomeEnabled": true,
+      "welcome": "Hoş geldin @user 👋",
+      "goodbyeEnabled": false,
+      "goodbye": "Görüşürüz @user 👋",
+      "chatbotEnabled": false,
+      "keywords": {},
+      "mutes": {},
+      "rules": [],
+      "scheduled": [],
+      "antidelete": false,
+      "antiedit": false,
+      "autoDownload": false,
+      "backgroundSync": false,
+      "autoApprove": false,
+      "announceRequests": true,
+      "auction": null
+    },
+    "120363202044050523@g.us": {
+      "antilink": false,
+      "anticaps": false,
+      "antispam": false,
+      "antiflood": false,
+      "antibot": false,
+      "antiBadword": false,
+      "badWords": [],
+      "botPrefixes": [],
+      "warnLimit": 3,
+      "warns": {},
+      "antitag": false,
+      "pmblocker": false,
+      "autoread": false,
+      "autotyping": false,
+      "welcomeEnabled": true,
+      "welcome": "Hoş geldin @user 👋",
+      "goodbyeEnabled": false,
+      "goodbye": "Görüşürüz @user 👋",
+      "chatbotEnabled": false,
+      "keywords": {},
+      "mutes": {},
+      "rules": [],
+      "scheduled": [],
+      "antidelete": false,
+      "antiedit": false,
+      "autoDownload": false,
+      "backgroundSync": false,
+      "autoApprove": false,
+      "announceRequests": true,
+      "auction": null
+    },
+    "120363420539254657@g.us": {
+      "antilink": false,
+      "anticaps": false,
+      "antispam": false,
+      "antiflood": false,
+      "antibot": false,
+      "antiBadword": false,
+      "badWords": [],
+      "botPrefixes": [],
+      "warnLimit": 3,
+      "warns": {},
+      "antitag": false,
+      "pmblocker": false,
+      "autoread": false,
+      "autotyping": false,
+      "welcomeEnabled": true,
+      "welcome": "Hoş geldin @user 👋",
+      "goodbyeEnabled": false,
+      "goodbye": "Görüşürüz @user 👋",
+      "chatbotEnabled": false,
+      "keywords": {},
+      "mutes": {},
+      "rules": [],
+      "scheduled": [],
+      "antidelete": false,
+      "antiedit": false,
+      "autoDownload": false,
+      "backgroundSync": false,
+      "autoApprove": false,
+      "announceRequests": true,
+      "auction": null
+    },
+    "120363410558139046@g.us": {
+      "antilink": false,
+      "anticaps": false,
+      "antispam": false,
+      "antiflood": false,
+      "antibot": false,
+      "antiBadword": false,
+      "badWords": [],
+      "botPrefixes": [],
+      "warnLimit": 3,
+      "warns": {},
+      "antitag": false,
+      "pmblocker": false,
+      "autoread": false,
+      "autotyping": false,
+      "welcomeEnabled": true,
+      "welcome": "Hoş geldin @user 👋",
+      "goodbyeEnabled": false,
+      "goodbye": "Görüşürüz @user 👋",
+      "chatbotEnabled": false,
+      "keywords": {},
+      "mutes": {},
+      "rules": [],
+      "scheduled": [],
+      "antidelete": false,
+      "antiedit": false,
+      "autoDownload": false,
+      "backgroundSync": false,
+      "autoApprove": false,
+      "announceRequests": true,
+      "auction": null
+    },
+    "120363429390654989@g.us": {
+      "antilink": false,
+      "anticaps": false,
+      "antispam": false,
+      "antiflood": false,
+      "antibot": false,
+      "antiBadword": false,
+      "badWords": [],
+      "botPrefixes": [],
+      "warnLimit": 3,
+      "warns": {},
+      "antitag": false,
+      "pmblocker": false,
+      "autoread": false,
+      "autotyping": false,
+      "welcomeEnabled": true,
+      "welcome": "Hoş geldin @user 👋",
+      "goodbyeEnabled": false,
+      "goodbye": "Görüşürüz @user 👋",
+      "chatbotEnabled": false,
+      "keywords": {},
+      "mutes": {},
+      "rules": [],
+      "scheduled": [],
+      "antidelete": false,
+      "antiedit": false,
+      "autoDownload": false,
+      "backgroundSync": false,
+      "autoApprove": false,
+      "announceRequests": true,
+      "auction": null
+    },
+    "120363429149176004@g.us": {
+      "antilink": false,
+      "anticaps": false,
+      "antispam": false,
+      "antiflood": false,
+      "antibot": false,
+      "antiBadword": false,
+      "badWords": [],
+      "botPrefixes": [],
+      "warnLimit": 3,
+      "warns": {},
+      "antitag": false,
+      "pmblocker": false,
+      "autoread": false,
+      "autotyping": false,
+      "welcomeEnabled": true,
+      "welcome": "Hoş geldin @user 👋",
+      "goodbyeEnabled": false,
+      "goodbye": "Görüşürüz @user 👋",
+      "chatbotEnabled": false,
+      "keywords": {},
+      "mutes": {},
+      "rules": [],
+      "scheduled": [],
+      "antidelete": false,
+      "antiedit": false,
+      "autoDownload": false,
+      "backgroundSync": false,
+      "autoApprove": false,
+      "announceRequests": true,
+      "auction": null
+    },
+    "120363427432764497@g.us": {
+      "antilink": false,
+      "anticaps": false,
+      "antispam": false,
+      "antiflood": false,
+      "antibot": false,
+      "antiBadword": false,
+      "badWords": [],
+      "botPrefixes": [],
+      "warnLimit": 3,
+      "warns": {},
+      "antitag": false,
+      "pmblocker": false,
+      "autoread": false,
+      "autotyping": false,
+      "welcomeEnabled": true,
+      "welcome": "Hoş geldin @user 👋",
+      "goodbyeEnabled": false,
+      "goodbye": "Görüşürüz @user 👋",
+      "chatbotEnabled": false,
+      "keywords": {},
+      "mutes": {},
+      "rules": [],
+      "scheduled": [],
+      "antidelete": false,
+      "antiedit": false,
+      "autoDownload": false,
+      "backgroundSync": false,
+      "autoApprove": false,
+      "announceRequests": true,
+      "auction": null
+    },
+    "120363429425753448@g.us": {
+      "antilink": false,
+      "anticaps": false,
+      "antispam": false,
+      "antiflood": false,
+      "antibot": false,
+      "antiBadword": false,
+      "badWords": [],
+      "botPrefixes": [],
+      "warnLimit": 3,
+      "warns": {},
+      "antitag": false,
+      "pmblocker": false,
+      "autoread": false,
+      "autotyping": false,
+      "welcomeEnabled": true,
+      "welcome": "Hoş geldin @user 👋",
+      "goodbyeEnabled": false,
+      "goodbye": "Görüşürüz @user 👋",
+      "chatbotEnabled": false,
+      "keywords": {},
+      "mutes": {},
+      "rules": [],
+      "scheduled": [],
+      "antidelete": false,
+      "antiedit": false,
+      "autoDownload": false,
+      "backgroundSync": false,
+      "autoApprove": false,
+      "announceRequests": true,
+      "auction": null
+    },
+    "120363431011274325@g.us": {
+      "antilink": false,
+      "anticaps": false,
+      "antispam": false,
+      "antiflood": false,
+      "antibot": false,
+      "antiBadword": false,
+      "badWords": [],
+      "botPrefixes": [],
+      "warnLimit": 3,
+      "warns": {},
+      "antitag": false,
+      "pmblocker": false,
+      "autoread": false,
+      "autotyping": false,
+      "welcomeEnabled": true,
+      "welcome": "Hoş geldin @user 👋",
+      "goodbyeEnabled": false,
+      "goodbye": "Görüşürüz @user 👋",
+      "chatbotEnabled": false,
+      "keywords": {},
+      "mutes": {},
+      "rules": [],
+      "scheduled": [],
+      "antidelete": false,
+      "antiedit": false,
+      "autoDownload": false,
+      "backgroundSync": false,
+      "autoApprove": false,
+      "announceRequests": true,
+      "auction": null
+    },
+    "120363405348740845@g.us": {
+      "antilink": false,
+      "anticaps": false,
+      "antispam": false,
+      "antiflood": false,
+      "antibot": false,
+      "antiBadword": false,
+      "badWords": [],
+      "botPrefixes": [],
+      "warnLimit": 3,
+      "warns": {},
+      "antitag": false,
+      "pmblocker": false,
+      "autoread": false,
+      "autotyping": false,
+      "welcomeEnabled": true,
+      "welcome": "Hoş geldin @user 👋",
+      "goodbyeEnabled": false,
+      "goodbye": "Görüşürüz @user 👋",
+      "chatbotEnabled": false,
+      "keywords": {},
+      "mutes": {},
+      "rules": [],
+      "scheduled": [],
+      "antidelete": false,
+      "antiedit": false,
+      "autoDownload": false,
+      "backgroundSync": false,
+      "autoApprove": false,
+      "announceRequests": true,
+      "auction": null
+    },
+    "120363420243991422@g.us": {
+      "antilink": false,
+      "anticaps": false,
+      "antispam": false,
+      "antiflood": false,
+      "antibot": false,
+      "antiBadword": false,
+      "badWords": [],
+      "botPrefixes": [],
+      "warnLimit": 3,
+      "warns": {},
+      "antitag": false,
+      "pmblocker": false,
+      "autoread": false,
+      "autotyping": false,
+      "welcomeEnabled": true,
+      "welcome": "Hoş geldin @user 👋",
+      "goodbyeEnabled": false,
+      "goodbye": "Görüşürüz @user 👋",
+      "chatbotEnabled": false,
+      "keywords": {},
+      "mutes": {},
+      "rules": [],
+      "scheduled": [],
+      "antidelete": false,
+      "antiedit": false,
+      "autoDownload": false,
+      "backgroundSync": false,
+      "autoApprove": false,
+      "announceRequests": true,
+      "auction": null
+    },
+    "120363425401424912@g.us": {
+      "antilink": false,
+      "anticaps": false,
+      "antispam": false,
+      "antiflood": false,
+      "antibot": false,
+      "antiBadword": false,
+      "badWords": [],
+      "botPrefixes": [],
+      "warnLimit": 3,
+      "warns": {},
+      "antitag": false,
+      "pmblocker": false,
+      "autoread": false,
+      "autotyping": false,
+      "welcomeEnabled": true,
+      "welcome": "Hoş geldin @user 👋",
+      "goodbyeEnabled": false,
+      "goodbye": "Görüşürüz @user 👋",
+      "chatbotEnabled": false,
+      "keywords": {},
+      "mutes": {},
+      "rules": [],
+      "scheduled": [],
+      "antidelete": false,
+      "antiedit": false,
+      "autoDownload": false,
+      "backgroundSync": false,
+      "autoApprove": false,
+      "announceRequests": true,
+      "auction": null
+    },
+    "6591878206-1310524254@g.us": {
+      "antilink": false,
+      "anticaps": false,
+      "antispam": false,
+      "antiflood": false,
+      "antibot": false,
+      "antiBadword": false,
+      "badWords": [],
+      "botPrefixes": [],
+      "warnLimit": 3,
+      "warns": {},
+      "antitag": false,
+      "pmblocker": false,
+      "autoread": false,
+      "autotyping": false,
+      "welcomeEnabled": true,
+      "welcome": "Hoş geldin @user 👋",
+      "goodbyeEnabled": false,
+      "goodbye": "Görüşürüz @user 👋",
+      "chatbotEnabled": false,
+      "keywords": {},
+      "mutes": {},
+      "rules": [],
+      "scheduled": [],
+      "antidelete": false,
+      "antiedit": false,
+      "autoDownload": false,
+      "backgroundSync": false,
+      "autoApprove": false,
+      "announceRequests": true,
+      "auction": null
+    }
+  },
+  "reminders": [],
+  "subscribers": [],
+  "logs": [
+    {
+      "at": 1790676240739,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790676557009,
+      "kind": "disconnected",
+      "session": "session",
+      "reason": "LOGOUT"
+    },
+    {
+      "at": 1790676562109,
+      "kind": "reconnect_error",
+      "session": "session",
+      "error": "The browser is already running for C:\\Users\\cemiv\\Desktop\\bot\\.wwebjs_auth\\session-session. Use a different `userDataDir` or stop the running browser first."
+    },
+    {
+      "at": 1790676563139,
+      "kind": "unhandled_rejection",
+      "error": "Error: EBUSY: resource busy or locked, unlink 'C:\\Users\\cemiv\\Desktop\\bot\\.wwebjs_auth\\session-session\\lockfile'"
+    },
+    {
+      "at": 1790676574183,
+      "kind": "disconnected",
+      "session": "session",
+      "reason": "LOGOUT"
+    },
+    {
+      "at": 1790676580334,
+      "kind": "unhandled_rejection",
+      "error": "Error: EBUSY: resource busy or locked, unlink 'C:\\Users\\cemiv\\Desktop\\bot\\.wwebjs_auth\\session-session\\first_party_sets.db'"
+    },
+    {
+      "at": 1790676830088,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790676996515,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790677401309,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790677420618,
+      "kind": "group_join_error",
+      "session": "session",
+      "error": "r"
+    },
+    {
+      "at": 1790677475397,
+      "kind": "group_join_error",
+      "session": "session",
+      "error": "r"
+    },
+    {
+      "at": 1790677482210,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790677482211,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790677482211,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790677482212,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790677482400,
+      "kind": "unhandled_rejection",
+      "error": "Execution context was destroyed, most likely because of a navigation."
+    },
+    {
+      "at": 1790677638673,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790677660898,
+      "kind": "group_join_error",
+      "session": "session",
+      "error": "r"
+    },
+    {
+      "at": 1790677699449,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790677699450,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790677699451,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790677699451,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790677699605,
+      "kind": "unhandled_rejection",
+      "error": "Execution context was destroyed, most likely because of a navigation."
+    },
+    {
+      "at": 1790677707310,
+      "kind": "disconnected",
+      "session": "session",
+      "reason": "LOGOUT"
+    },
+    {
+      "at": 1790677707352,
+      "kind": "unhandled_rejection",
+      "error": "Execution context was destroyed, most likely because of a navigation."
+    },
+    {
+      "at": 1790677712528,
+      "kind": "reconnect_error",
+      "session": "session",
+      "error": "The browser is already running for C:\\Users\\cemiv\\Desktop\\bot\\.wwebjs_auth\\session-session. Use a different `userDataDir` or stop the running browser first."
+    },
+    {
+      "at": 1790677713477,
+      "kind": "unhandled_rejection",
+      "error": "Error: EBUSY: resource busy or locked, unlink 'C:\\Users\\cemiv\\Desktop\\bot\\.wwebjs_auth\\session-session\\first_party_sets.db-journal'"
+    },
+    {
+      "at": 1790677947324,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790678073792,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790678073794,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790678073794,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790678073795,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790678074044,
+      "kind": "unhandled_rejection",
+      "error": "Execution context was destroyed, most likely because of a navigation."
+    },
+    {
+      "at": 1790679940681,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790680048017,
+      "kind": "incoming",
+      "chatId": "120363173523767269@newsletter",
+      "sender": "120363173523767269",
+      "type": "chat"
+    },
+    {
+      "at": 1790680682910,
+      "kind": "disconnected",
+      "session": "session",
+      "reason": "LOGOUT"
+    },
+    {
+      "at": 1790680683192,
+      "kind": "disconnected",
+      "session": "session",
+      "reason": "LOGOUT"
+    },
+    {
+      "at": 1790680687979,
+      "kind": "reconnect_error",
+      "session": "session",
+      "error": "The browser is already running for C:\\Users\\cemiv\\Desktop\\bot\\.wwebjs_auth\\session-session. Use a different `userDataDir` or stop the running browser first."
+    },
+    {
+      "at": 1790680689119,
+      "kind": "unhandled_rejection",
+      "error": "Error: EBUSY: resource busy or locked, unlink 'C:\\Users\\cemiv\\Desktop\\bot\\.wwebjs_auth\\session-session\\lockfile'"
+    },
+    {
+      "at": 1790680689393,
+      "kind": "unhandled_rejection",
+      "error": "Error: EBUSY: resource busy or locked, unlink 'C:\\Users\\cemiv\\Desktop\\bot\\.wwebjs_auth\\session-session\\first_party_sets.db'"
+    },
+    {
+      "at": 1790680793733,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790680867722,
+      "kind": "incoming",
+      "chatId": "120363210753792797@newsletter",
+      "sender": "120363210753792797",
+      "type": "image"
+    },
+    {
+      "at": 1790681200952,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790681201248,
+      "kind": "incoming",
+      "chatId": "111931981623550@lid",
+      "sender": "111931981623550",
+      "type": "unknown"
+    },
+    {
+      "at": 1790681201388,
+      "kind": "membership_request",
+      "session": "session",
+      "chatId": "120363412276485827@g.us"
+    },
+    {
+      "at": 1790681202838,
+      "kind": "group_join_error",
+      "session": "session",
+      "error": "r"
+    },
+    {
+      "at": 1790681202889,
+      "kind": "group_join_error",
+      "session": "session",
+      "error": "r"
+    },
+    {
+      "at": 1790681255740,
+      "kind": "group_join_error",
+      "session": "session",
+      "error": "r"
+    },
+    {
+      "at": 1790681440166,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790682218484,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790682218676,
+      "kind": "incoming",
+      "chatId": "905524317852-1595592147@g.us",
+      "sender": "91745652101236",
+      "type": "chat"
+    },
+    {
+      "at": 1790682218713,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790682218883,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790682218943,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "27586759512245",
+      "type": "chat"
+    },
+    {
+      "at": 1790682218976,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790682219014,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "sticker"
+    },
+    {
+      "at": 1790682219073,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790682219103,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790682219136,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790682219175,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "91745652101236",
+      "type": "chat"
+    },
+    {
+      "at": 1790682219474,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "111931981623550",
+      "type": "chat"
+    },
+    {
+      "at": 1790682219526,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "91745652101236",
+      "type": "chat"
+    },
+    {
+      "at": 1790682220034,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "141657366360248",
+      "type": "sticker"
+    },
+    {
+      "at": 1790682220096,
+      "kind": "incoming",
+      "chatId": "108525485338862@lid",
+      "sender": "108525485338862",
+      "type": "chat"
+    },
+    {
+      "at": 1790682220176,
+      "kind": "incoming",
+      "chatId": "905524317852-1595592147@g.us",
+      "sender": "170820110434336",
+      "type": "chat"
+    },
+    {
+      "at": 1790682220264,
+      "kind": "incoming",
+      "chatId": "905524317852-1595592147@g.us",
+      "sender": "170820110434336",
+      "type": "chat"
+    },
+    {
+      "at": 1790682220328,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790682220394,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "227874237886594",
+      "type": "chat"
+    },
+    {
+      "at": 1790682220425,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "227874237886594",
+      "type": "chat"
+    },
+    {
+      "at": 1790682220855,
+      "kind": "group_join",
+      "session": "session",
+      "chatId": "120363420539254657@g.us",
+      "users": [
+        "196116981272736@lid"
+      ]
+    },
+    {
+      "at": 1790682220860,
+      "kind": "group_join",
+      "session": "session",
+      "chatId": "120363420539254657@g.us",
+      "users": [
+        "83635965296730@lid"
+      ]
+    },
+    {
+      "at": 1790682220864,
+      "kind": "group_join",
+      "session": "session",
+      "chatId": "120363420539254657@g.us",
+      "users": [
+        "59270649368758@lid"
+      ]
+    },
+    {
+      "at": 1790682220868,
+      "kind": "group_join",
+      "session": "session",
+      "chatId": "120363420539254657@g.us",
+      "users": [
+        "270265816735867@lid"
+      ]
+    },
+    {
+      "at": 1790682220872,
+      "kind": "group_join",
+      "session": "session",
+      "chatId": "120363420539254657@g.us",
+      "users": [
+        "257840224723084@lid"
+      ]
+    },
+    {
+      "at": 1790682220876,
+      "kind": "group_join",
+      "session": "session",
+      "chatId": "120363420539254657@g.us",
+      "users": [
+        "196942185369679@lid"
+      ]
+    },
+    {
+      "at": 1790682220880,
+      "kind": "group_join",
+      "session": "session",
+      "chatId": "120363420539254657@g.us",
+      "users": [
+        "157909119938678@lid"
+      ]
+    },
+    {
+      "at": 1790682221158,
+      "kind": "group_join",
+      "session": "session",
+      "chatId": "120363420539254657@g.us",
+      "users": [
+        "105785547816971@lid"
+      ]
+    },
+    {
+      "at": 1790682221167,
+      "kind": "group_join",
+      "session": "session",
+      "chatId": "34639105260-1337426671@g.us",
+      "users": [
+        "187716713091280@lid"
+      ]
+    },
+    {
+      "at": 1790682244428,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790682261657,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "227874237886594",
+      "type": "chat"
+    },
+    {
+      "at": 1790682264569,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790682265534,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790682271610,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790682272140,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790682275365,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790682281875,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "227874237886594",
+      "type": "chat"
+    },
+    {
+      "at": 1790682285598,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "227874237886594",
+      "type": "chat"
+    },
+    {
+      "at": 1790682287162,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790682290070,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "204325116727397",
+      "type": "chat"
+    },
+    {
+      "at": 1790682314148,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790682321633,
+      "kind": "group_join",
+      "session": "session",
+      "chatId": "120363420539254657@g.us",
+      "users": [
+        "279495651098813@lid"
+      ]
+    },
+    {
+      "at": 1790682324420,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790682329101,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "227874237886594",
+      "type": "chat"
+    },
+    {
+      "at": 1790682332164,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "227874237886594",
+      "type": "chat"
+    },
+    {
+      "at": 1790682333410,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790682349599,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "204325116727397",
+      "type": "chat"
+    },
+    {
+      "at": 1790686170006,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790686184614,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686185728,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686187453,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686190921,
+      "kind": "outgoing",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790686195602,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686199658,
+      "kind": "outgoing",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790686203169,
+      "kind": "outgoing",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790686212153,
+      "kind": "outgoing",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790686215265,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "sticker"
+    },
+    {
+      "at": 1790686220378,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790686226830,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790686235577,
+      "kind": "outgoing",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790686246751,
+      "kind": "outgoing",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790686249191,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "27586759512245",
+      "type": "chat"
+    },
+    {
+      "at": 1790686257325,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "20771166535812",
+      "type": "chat"
+    },
+    {
+      "at": 1790686263013,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "27586759512245",
+      "type": "chat"
+    },
+    {
+      "at": 1790686264727,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "250581713203206",
+      "type": "chat"
+    },
+    {
+      "at": 1790686265810,
+      "kind": "incoming",
+      "chatId": "120363410558139046@g.us",
+      "sender": "28639496294590",
+      "type": "chat"
+    },
+    {
+      "at": 1790686267169,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "86543809134660",
+      "type": "chat"
+    },
+    {
+      "at": 1790686273139,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "86543809134660",
+      "type": "chat"
+    },
+    {
+      "at": 1790686273348,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "196430916526192",
+      "type": "chat"
+    },
+    {
+      "at": 1790686275424,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "196430916526192",
+      "type": "chat"
+    },
+    {
+      "at": 1790686292509,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "86543809134660",
+      "type": "chat"
+    },
+    {
+      "at": 1790686294240,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "27586759512245",
+      "type": "chat"
+    },
+    {
+      "at": 1790686294323,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "68629567688804",
+      "type": "chat"
+    },
+    {
+      "at": 1790686296519,
+      "kind": "incoming",
+      "chatId": "120363410558139046@g.us",
+      "sender": "168410700869873",
+      "type": "chat"
+    },
+    {
+      "at": 1790686297331,
+      "kind": "outgoing",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790686297393,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686303043,
+      "kind": "incoming",
+      "chatId": "170820110434336@lid",
+      "sender": "170820110434336",
+      "type": "chat"
+    },
+    {
+      "at": 1790686303538,
+      "kind": "incoming",
+      "chatId": "120363410558139046@g.us",
+      "sender": "94185008980214",
+      "type": "chat"
+    },
+    {
+      "at": 1790686303633,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "196430916526192",
+      "type": "chat"
+    },
+    {
+      "at": 1790686307508,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "86543809134660",
+      "type": "chat"
+    },
+    {
+      "at": 1790686315118,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "86543809134660",
+      "type": "chat"
+    },
+    {
+      "at": 1790686319563,
+      "kind": "outgoing",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790686322453,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "86543809134660",
+      "type": "chat"
+    },
+    {
+      "at": 1790686326617,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "120363429390654989",
+      "type": "e2e_notification"
+    },
+    {
+      "at": 1790686326926,
+      "kind": "group_join",
+      "session": "session",
+      "chatId": "120363429390654989@g.us",
+      "users": [
+        "7439554506882@lid"
+      ]
+    },
+    {
+      "at": 1790686327111,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "image"
+    },
+    {
+      "at": 1790686330037,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686331145,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "108525485338862",
+      "type": "chat"
+    },
+    {
+      "at": 1790686331717,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "196430916526192",
+      "type": "chat"
+    },
+    {
+      "at": 1790686332028,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "88610208526522",
+      "type": "chat"
+    },
+    {
+      "at": 1790686332114,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790686333330,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790686334158,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686340375,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686341658,
+      "kind": "outgoing",
+      "chatId": "120363429390654989@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790686347357,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "sticker"
+    },
+    {
+      "at": 1790686348019,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686350889,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "127844298575987",
+      "type": "chat"
+    },
+    {
+      "at": 1790686352531,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "127844298575987",
+      "type": "chat"
+    },
+    {
+      "at": 1790686352983,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "21157579346018",
+      "type": "chat"
+    },
+    {
+      "at": 1790686354544,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "196430916526192",
+      "type": "chat"
+    },
+    {
+      "at": 1790686356040,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "60666949968000",
+      "type": "chat"
+    },
+    {
+      "at": 1790686357248,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "196430916526192",
+      "type": "chat"
+    },
+    {
+      "at": 1790686359764,
+      "kind": "group_join",
+      "session": "session",
+      "chatId": "120363420539254657@g.us",
+      "users": [
+        "72507923120186@lid"
+      ]
+    },
+    {
+      "at": 1790686363112,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "196430916526192",
+      "type": "chat"
+    },
+    {
+      "at": 1790686365382,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "sticker"
+    },
+    {
+      "at": 1790686366994,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790686369332,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790686374047,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "sticker"
+    },
+    {
+      "at": 1790686386295,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686392457,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "68629567688804",
+      "type": "sticker"
+    },
+    {
+      "at": 1790686393119,
+      "kind": "incoming",
+      "chatId": "108525485338862@lid",
+      "sender": "108525485338862",
+      "type": "image"
+    },
+    {
+      "at": 1790686395214,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686400362,
+      "kind": "incoming",
+      "chatId": "108525485338862@lid",
+      "sender": "108525485338862",
+      "type": "chat"
+    },
+    {
+      "at": 1790686405169,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686405617,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790686407234,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790686411207,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790686412520,
+      "kind": "incoming",
+      "chatId": "120363429149176004@g.us",
+      "sender": "41236064899154",
+      "type": "chat"
+    },
+    {
+      "at": 1790686414226,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686426028,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686430756,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686435097,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686450158,
+      "kind": "incoming",
+      "chatId": "120363429149176004@g.us",
+      "sender": "11167636431088",
+      "type": "chat"
+    },
+    {
+      "at": 1790686455808,
+      "kind": "incoming",
+      "chatId": "120363429149176004@g.us",
+      "sender": "11167636431088",
+      "type": "image"
+    },
+    {
+      "at": 1790686456796,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686462495,
+      "kind": "outgoing",
+      "chatId": "120363429390654989@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790686467162,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686467842,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "196430916526192",
+      "type": "chat"
+    },
+    {
+      "at": 1790686474714,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "196430916526192",
+      "type": "chat"
+    },
+    {
+      "at": 1790686480530,
+      "kind": "incoming",
+      "chatId": "120363429149176004@g.us",
+      "sender": "11167636431088",
+      "type": "chat"
+    },
+    {
+      "at": 1790686481899,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686484495,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790686486163,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "27586759512245",
+      "type": "chat"
+    },
+    {
+      "at": 1790686487589,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "27586759512245",
+      "type": "chat"
+    },
+    {
+      "at": 1790686493929,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790686495556,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "196430916526192",
+      "type": "chat"
+    },
+    {
+      "at": 1790686499723,
+      "kind": "incoming",
+      "chatId": "120363412276485827@g.us",
+      "sender": "96027382169714",
+      "type": "chat"
+    },
+    {
+      "at": 1790686500810,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686501137,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "196430916526192",
+      "type": "chat"
+    },
+    {
+      "at": 1790686501773,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "27586759512245",
+      "type": "chat"
+    },
+    {
+      "at": 1790686503965,
+      "kind": "incoming",
+      "chatId": "108525485338862@lid",
+      "sender": "108525485338862",
+      "type": "chat"
+    },
+    {
+      "at": 1790686504880,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790686505478,
+      "kind": "incoming",
+      "chatId": "108525485338862@lid",
+      "sender": "108525485338862",
+      "type": "chat"
+    },
+    {
+      "at": 1790686510361,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790686511574,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "196430916526192",
+      "type": "chat"
+    },
+    {
+      "at": 1790686512953,
+      "kind": "incoming",
+      "chatId": "120363427432764497@g.us",
+      "sender": "86543809134660",
+      "type": "image"
+    },
+    {
+      "at": 1790686513690,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "196430916526192",
+      "type": "chat"
+    },
+    {
+      "at": 1790686516001,
+      "kind": "incoming",
+      "chatId": "120363429149176004@g.us",
+      "sender": "41236064899154",
+      "type": "chat"
+    },
+    {
+      "at": 1790686516761,
+      "kind": "incoming",
+      "chatId": "108525485338862@lid",
+      "sender": "108525485338862",
+      "type": "chat"
+    },
+    {
+      "at": 1790686518020,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "196430916526192",
+      "type": "chat"
+    },
+    {
+      "at": 1790686521045,
+      "kind": "incoming",
+      "chatId": "120363427432764497@g.us",
+      "sender": "86543809134660",
+      "type": "chat"
+    },
+    {
+      "at": 1790686531984,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "27586759512245",
+      "type": "ptt"
+    },
+    {
+      "at": 1790686534639,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790686535879,
+      "kind": "incoming",
+      "chatId": "108525485338862@lid",
+      "sender": "108525485338862",
+      "type": "chat"
+    },
+    {
+      "at": 1790686538528,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790686542149,
+      "kind": "incoming",
+      "chatId": "120363429149176004@g.us",
+      "sender": "11167636431088",
+      "type": "chat"
+    },
+    {
+      "at": 1790686543309,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "196430916526192",
+      "type": "chat"
+    },
+    {
+      "at": 1790686545218,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790686551017,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790686552187,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "196430916526192",
+      "type": "chat"
+    },
+    {
+      "at": 1790686556243,
+      "kind": "incoming",
+      "chatId": "120363429149176004@g.us",
+      "sender": "41236064899154",
+      "type": "chat"
+    },
+    {
+      "at": 1790686563797,
+      "kind": "incoming",
+      "chatId": "120363429149176004@g.us",
+      "sender": "11167636431088",
+      "type": "chat"
+    },
+    {
+      "at": 1790686565451,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686568665,
+      "kind": "incoming",
+      "chatId": "120363429149176004@g.us",
+      "sender": "11167636431088",
+      "type": "chat"
+    },
+    {
+      "at": 1790686569370,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686570374,
+      "kind": "incoming",
+      "chatId": "120363429149176004@g.us",
+      "sender": "11167636431088",
+      "type": "chat"
+    },
+    {
+      "at": 1790686571822,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "27586759512245",
+      "type": "chat"
+    },
+    {
+      "at": 1790686574437,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686575110,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686586262,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "127844298575987",
+      "type": "chat"
+    },
+    {
+      "at": 1790686588793,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686592895,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686602483,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "27586759512245",
+      "type": "chat"
+    },
+    {
+      "at": 1790686606225,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686614520,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686619132,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "127844298575987",
+      "type": "chat"
+    },
+    {
+      "at": 1790686623780,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "27586759512245",
+      "type": "chat"
+    },
+    {
+      "at": 1790686656788,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "39943799869493",
+      "type": "chat"
+    },
+    {
+      "at": 1790686658825,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686661623,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686688274,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "60666949968000",
+      "type": "chat"
+    },
+    {
+      "at": 1790686690862,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686699916,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "60666949968000",
+      "type": "chat"
+    },
+    {
+      "at": 1790686705839,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "sticker"
+    },
+    {
+      "at": 1790686707602,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "sticker"
+    },
+    {
+      "at": 1790686718435,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "60666949968000",
+      "type": "sticker"
+    },
+    {
+      "at": 1790686723514,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "63373014257741",
+      "type": "image"
+    },
+    {
+      "at": 1790686725791,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686731941,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686735630,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686738039,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686741706,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "204325116727397",
+      "type": "ptt"
+    },
+    {
+      "at": 1790686752784,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686766922,
+      "kind": "incoming",
+      "chatId": "120363410558139046@g.us",
+      "sender": "75072001847425",
+      "type": "chat"
+    },
+    {
+      "at": 1790686784052,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "108525485338862",
+      "type": "sticker"
+    },
+    {
+      "at": 1790686790504,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790686790616,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "204325116727397",
+      "type": "chat"
+    },
+    {
+      "at": 1790686794836,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "204325116727397",
+      "type": "chat"
+    },
+    {
+      "at": 1790686800412,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "204325116727397",
+      "type": "chat"
+    },
+    {
+      "at": 1790686809034,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790686822088,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790686824096,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790686824824,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790686830912,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "204325116727397",
+      "type": "chat"
+    },
+    {
+      "at": 1790686842135,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790686849349,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790686854669,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790686856760,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "108525485338862",
+      "type": "chat"
+    },
+    {
+      "at": 1790686858928,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "108525485338862",
+      "type": "sticker"
+    },
+    {
+      "at": 1790686863377,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "63373014257741",
+      "type": "ptt"
+    },
+    {
+      "at": 1790686876319,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "sticker"
+    },
+    {
+      "at": 1790686880857,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "204325116727397",
+      "type": "chat"
+    },
+    {
+      "at": 1790686893814,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790686904452,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "108525485338862",
+      "type": "chat"
+    },
+    {
+      "at": 1790686912968,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "sticker"
+    },
+    {
+      "at": 1790686923022,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "108525485338862",
+      "type": "sticker"
+    },
+    {
+      "at": 1790686944116,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790686955591,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "sticker"
+    },
+    {
+      "at": 1790686956709,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "204325116727397",
+      "type": "chat"
+    },
+    {
+      "at": 1790686958050,
+      "kind": "incoming",
+      "chatId": "120363429390654989@g.us",
+      "sender": "60666949968000",
+      "type": "chat"
+    },
+    {
+      "at": 1790686959182,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "204325116727397",
+      "type": "chat"
+    },
+    {
+      "at": 1790693212497,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790693223212,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "221444638253101",
+      "type": "chat"
+    },
+    {
+      "at": 1790693225398,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "221444638253101",
+      "type": "sticker"
+    },
+    {
+      "at": 1790693258537,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "221444638253101",
+      "type": "chat"
+    },
+    {
+      "at": 1790694015684,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790694015797,
+      "kind": "incoming",
+      "chatId": "120363431011274325@g.us",
+      "sender": "150581972840464",
+      "type": "chat"
+    },
+    {
+      "at": 1790694015852,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "18958807785629",
+      "type": "sticker"
+    },
+    {
+      "at": 1790694015880,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "274920990838861",
+      "type": "chat"
+    },
+    {
+      "at": 1790694015903,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "18958807785629",
+      "type": "sticker"
+    },
+    {
+      "at": 1790694015926,
+      "kind": "incoming",
+      "chatId": "120363420539254657@g.us",
+      "sender": "120363420539254657",
+      "type": "notification_template"
+    },
+    {
+      "at": 1790694016073,
+      "kind": "incoming",
+      "chatId": "120363405348740845@g.us",
+      "sender": "24610816966835",
+      "type": "chat"
+    },
+    {
+      "at": 1790694016150,
+      "kind": "incoming",
+      "chatId": "120363405348740845@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790694016269,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790694016334,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "sticker"
+    },
+    {
+      "at": 1790694017956,
+      "kind": "incoming",
+      "chatId": "120363405348740845@g.us",
+      "sender": "120363405348740845",
+      "type": "notification_template"
+    },
+    {
+      "at": 1790694017979,
+      "kind": "incoming",
+      "chatId": "170820110434336@lid",
+      "sender": "170820110434336",
+      "type": "chat"
+    },
+    {
+      "at": 1790694018006,
+      "kind": "incoming",
+      "chatId": "120363431011274325@g.us",
+      "sender": "140454775492776",
+      "type": "chat"
+    },
+    {
+      "at": 1790694018066,
+      "kind": "incoming",
+      "chatId": "120363431011274325@g.us",
+      "sender": "150581972840464",
+      "type": "chat"
+    },
+    {
+      "at": 1790694018130,
+      "kind": "incoming",
+      "chatId": "120363431011274325@g.us",
+      "sender": "35992178298970",
+      "type": "chat"
+    },
+    {
+      "at": 1790694018208,
+      "kind": "incoming",
+      "chatId": "120363431011274325@g.us",
+      "sender": "193415916568604",
+      "type": "chat"
+    },
+    {
+      "at": 1790694018246,
+      "kind": "incoming",
+      "chatId": "120363431011274325@g.us",
+      "sender": "193415916568604",
+      "type": "chat"
+    },
+    {
+      "at": 1790694018303,
+      "kind": "incoming",
+      "chatId": "120363431011274325@g.us",
+      "sender": "193415916568604",
+      "type": "chat"
+    },
+    {
+      "at": 1790694018391,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790694018434,
+      "kind": "incoming",
+      "chatId": "120363431011274325@g.us",
+      "sender": "35992178298970",
+      "type": "chat"
+    },
+    {
+      "at": 1790694018444,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790694018458,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790694018488,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790694018527,
+      "kind": "incoming",
+      "chatId": "120363431011274325@g.us",
+      "sender": "193415916568604",
+      "type": "sticker"
+    },
+    {
+      "at": 1790694018677,
+      "kind": "incoming",
+      "chatId": "120363431011274325@g.us",
+      "sender": "35992178298970",
+      "type": "sticker"
+    },
+    {
+      "at": 1790694018856,
+      "kind": "incoming",
+      "chatId": "120363431011274325@g.us",
+      "sender": "150581972840464",
+      "type": "chat"
+    },
+    {
+      "at": 1790694019003,
+      "kind": "incoming",
+      "chatId": "120363431011274325@g.us",
+      "sender": "150581972840464",
+      "type": "chat"
+    },
+    {
+      "at": 1790694019032,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "91745652101236",
+      "type": "chat"
+    },
+    {
+      "at": 1790694019073,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "91745652101236",
+      "type": "chat"
+    },
+    {
+      "at": 1790694019137,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "91745652101236",
+      "type": "chat"
+    },
+    {
+      "at": 1790694019169,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "14607334826203",
+      "type": "sticker"
+    },
+    {
+      "at": 1790694019210,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "91745652101236",
+      "type": "chat"
+    },
+    {
+      "at": 1790694019237,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "91745652101236",
+      "type": "chat"
+    },
+    {
+      "at": 1790694019473,
+      "kind": "group_join",
+      "session": "session",
+      "chatId": "120363420539254657@g.us",
+      "users": [
+        "121999284252895@lid"
+      ]
+    },
+    {
+      "at": 1790694020470,
+      "kind": "outgoing",
+      "chatId": "120363202044050523@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790694027502,
+      "kind": "outgoing",
+      "chatId": "120363202044050523@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790694038081,
+      "kind": "outgoing",
+      "chatId": "120363202044050523@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790694043765,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "91745652101236",
+      "type": "chat"
+    },
+    {
+      "at": 1790694057419,
+      "kind": "outgoing",
+      "chatId": "120363202044050523@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790694228521,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790694241858,
+      "kind": "outgoing",
+      "chatId": "120363202044050523@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790694263513,
+      "kind": "outgoing",
+      "chatId": "120363202044050523@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790694267729,
+      "kind": "outgoing",
+      "chatId": "120363202044050523@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790694312042,
+      "kind": "initialize_error",
+      "session": "session",
+      "error": "The browser is already running for C:\\Users\\cemiv\\Desktop\\bot\\.wwebjs_auth\\session-session. Use a different `userDataDir` or stop the running browser first."
+    },
+    {
+      "at": 1790695371395,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790695371581,
+      "kind": "incoming",
+      "chatId": "905524317852-1595592147@g.us",
+      "sender": "243722549772515",
+      "type": "chat"
+    },
+    {
+      "at": 1790695371640,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695371670,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "34914510573723",
+      "type": "chat"
+    },
+    {
+      "at": 1790695371682,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695371695,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "34914510573723",
+      "type": "chat"
+    },
+    {
+      "at": 1790695371708,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695371721,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "34914510573723",
+      "type": "chat"
+    },
+    {
+      "at": 1790695371734,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695371756,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "34914510573723",
+      "type": "chat"
+    },
+    {
+      "at": 1790695371772,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695371787,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "34914510573723",
+      "type": "chat"
+    },
+    {
+      "at": 1790695371802,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695371820,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "34914510573723",
+      "type": "chat"
+    },
+    {
+      "at": 1790695371840,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695371862,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "34914510573723",
+      "type": "chat"
+    },
+    {
+      "at": 1790695371888,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695371909,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "34914510573723",
+      "type": "chat"
+    },
+    {
+      "at": 1790695371929,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695371963,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "177107489570821",
+      "type": "chat"
+    },
+    {
+      "at": 1790695372381,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "34914510573723",
+      "type": "chat"
+    },
+    {
+      "at": 1790695372549,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "274920990838861",
+      "type": "chat"
+    },
+    {
+      "at": 1790695372589,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "274920990838861",
+      "type": "chat"
+    },
+    {
+      "at": 1790695372617,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695372659,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "34914510573723",
+      "type": "chat"
+    },
+    {
+      "at": 1790695372687,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695372707,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "34914510573723",
+      "type": "chat"
+    },
+    {
+      "at": 1790695372725,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695372744,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "34914510573723",
+      "type": "chat"
+    },
+    {
+      "at": 1790695372764,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "274920990838861",
+      "type": "chat"
+    },
+    {
+      "at": 1790695372785,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695372806,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695372826,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "34914510573723",
+      "type": "chat"
+    },
+    {
+      "at": 1790695372847,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695372872,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "34914510573723",
+      "type": "chat"
+    },
+    {
+      "at": 1790695372890,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "274920990838861",
+      "type": "chat"
+    },
+    {
+      "at": 1790695372915,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "34914510573723",
+      "type": "sticker"
+    },
+    {
+      "at": 1790695372942,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "274920990838861",
+      "type": "sticker"
+    },
+    {
+      "at": 1790695372966,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695372989,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695373014,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695373041,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695373065,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "sticker"
+    },
+    {
+      "at": 1790695373090,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "274920990838861",
+      "type": "chat"
+    },
+    {
+      "at": 1790695374695,
+      "kind": "incoming",
+      "chatId": "41030527279284@lid",
+      "sender": "41030527279284",
+      "type": "chat"
+    },
+    {
+      "at": 1790695374715,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "177107489570821",
+      "type": "chat"
+    },
+    {
+      "at": 1790695374761,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "274920990838861",
+      "type": "chat"
+    },
+    {
+      "at": 1790695374786,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695374819,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695374843,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695374888,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "156642087825660",
+      "type": "chat"
+    },
+    {
+      "at": 1790695374924,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695374953,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "156642087825660",
+      "type": "chat"
+    },
+    {
+      "at": 1790695374975,
+      "kind": "incoming",
+      "chatId": "120363429425753448@g.us",
+      "sender": "254559020650528",
+      "type": "chat"
+    },
+    {
+      "at": 1790695387670,
+      "kind": "outgoing",
+      "chatId": "120363202044050523@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790695391913,
+      "kind": "outgoing",
+      "chatId": "120363202044050523@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790695430086,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790695439387,
+      "kind": "outgoing",
+      "chatId": "120363202044050523@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790695445536,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790695449912,
+      "kind": "outgoing",
+      "chatId": "120363202044050523@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790695455894,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790695461471,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790695467326,
+      "kind": "outgoing",
+      "chatId": "120363202044050523@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790695475121,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790695479550,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790695485560,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790695506693,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790695515318,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790695517531,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "sticker"
+    },
+    {
+      "at": 1790695524884,
+      "kind": "outgoing",
+      "chatId": "120363202044050523@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790695569177,
+      "kind": "incoming",
+      "chatId": "120363405348740845@g.us",
+      "sender": "24610816966835",
+      "type": "chat"
+    },
+    {
+      "at": 1790695583656,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "108525485338862",
+      "type": "chat"
+    },
+    {
+      "at": 1790695585447,
+      "kind": "outgoing",
+      "chatId": "120363202044050523@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790695591188,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790695593676,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790695598066,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "108525485338862",
+      "type": "chat"
+    },
+    {
+      "at": 1790695598131,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "sticker"
+    },
+    {
+      "at": 1790695601904,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "108525485338862",
+      "type": "sticker"
+    },
+    {
+      "at": 1790695607612,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790695616494,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790695621843,
+      "kind": "incoming",
+      "chatId": "120363410558139046@g.us",
+      "sender": "140454775492776",
+      "type": "chat"
+    },
+    {
+      "at": 1790695623119,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790695628550,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "609969303613",
+      "type": "chat"
+    },
+    {
+      "at": 1790695628959,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790695632314,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790695632464,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "108525485338862",
+      "type": "chat"
+    },
+    {
+      "at": 1790695634542,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "108525485338862",
+      "type": "chat"
+    },
+    {
+      "at": 1790695637259,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "sticker"
+    },
+    {
+      "at": 1790695640415,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790695642088,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790695645937,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "19422630691067",
+      "type": "chat"
+    },
+    {
+      "at": 1790695646018,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "609969303613",
+      "type": "chat"
+    },
+    {
+      "at": 1790695647721,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "sticker"
+    },
+    {
+      "at": 1790695649398,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "609969303613",
+      "type": "chat"
+    },
+    {
+      "at": 1790695652345,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "108525485338862",
+      "type": "chat"
+    },
+    {
+      "at": 1790695654422,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "108525485338862",
+      "type": "sticker"
+    },
+    {
+      "at": 1790695679513,
+      "kind": "outgoing",
+      "chatId": "120363202044050523@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790695682826,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790695685578,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "609969303613",
+      "type": "chat"
+    },
+    {
+      "at": 1790695690237,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "609969303613",
+      "type": "chat"
+    },
+    {
+      "at": 1790695694597,
+      "kind": "incoming",
+      "chatId": "120363405348740845@g.us",
+      "sender": "123992149102658",
+      "type": "sticker"
+    },
+    {
+      "at": 1790695696183,
+      "kind": "incoming",
+      "chatId": "120363405348740845@g.us",
+      "sender": "123992149102658",
+      "type": "chat"
+    },
+    {
+      "at": 1790695696906,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "609969303613",
+      "type": "chat"
+    },
+    {
+      "at": 1790695698827,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "609969303613",
+      "type": "chat"
+    },
+    {
+      "at": 1790695700820,
+      "kind": "incoming",
+      "chatId": "120363202044050523@g.us",
+      "sender": "609969303613",
+      "type": "chat"
+    },
+    {
+      "at": 1790695701188,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790695701980,
+      "kind": "incoming",
+      "chatId": "120363405348740845@g.us",
+      "sender": "86543809134660",
+      "type": "chat"
+    },
+    {
+      "at": 1790695710191,
+      "kind": "incoming",
+      "chatId": "120363431011274325@g.us",
+      "sender": "218171889987835",
+      "type": "chat"
+    },
+    {
+      "at": 1790695720477,
+      "kind": "incoming",
+      "chatId": "120363420243991422@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790695727776,
+      "kind": "incoming",
+      "chatId": "905524317852-1595592147@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790695742500,
+      "kind": "incoming",
+      "chatId": "120363410558139046@g.us",
+      "sender": "177902511472796",
+      "type": "chat"
+    },
+    {
+      "at": 1790695747312,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790695755007,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "sticker"
+    },
+    {
+      "at": 1790695762619,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "108525485338862",
+      "type": "chat"
+    },
+    {
+      "at": 1790695766888,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "91745652101236",
+      "type": "chat"
+    },
+    {
+      "at": 1790695773353,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790695779781,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790695805947,
+      "kind": "incoming",
+      "chatId": "120363431011274325@g.us",
+      "sender": "88404050104372",
+      "type": "chat"
+    },
+    {
+      "at": 1790695806672,
+      "kind": "group_join",
+      "session": "session",
+      "chatId": "120363425401424912@g.us",
+      "users": [
+        "31384097845437@lid"
+      ]
+    },
+    {
+      "at": 1790695833886,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "63373014257741",
+      "type": "chat"
+    },
+    {
+      "at": 1790695845597,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790695846666,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790695847262,
+      "kind": "outgoing",
+      "chatId": "120363202044050523@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790695854262,
+      "kind": "outgoing",
+      "chatId": "120363202044050523@g.us",
+      "sender": "905331344009",
+      "type": "chat"
+    },
+    {
+      "at": 1790695868234,
+      "kind": "ready",
+      "session": "session"
+    },
+    {
+      "at": 1790695869903,
+      "kind": "incoming",
+      "chatId": "41030527279284@lid",
+      "sender": "41030527279284",
+      "type": "chat"
+    },
+    {
+      "at": 1790695872083,
+      "kind": "incoming",
+      "chatId": "41030527279284@lid",
+      "sender": "41030527279284",
+      "type": "chat"
+    },
+    {
+      "at": 1790695874417,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790695875470,
+      "kind": "incoming",
+      "chatId": "41030527279284@lid",
+      "sender": "41030527279284",
+      "type": "chat"
+    },
+    {
+      "at": 1790695878071,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790695880199,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790695922767,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790695928286,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790695947436,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790695960421,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790695964161,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790695967027,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790695967844,
+      "kind": "incoming",
+      "chatId": "120363412276485827@g.us",
+      "sender": "8736668180635",
+      "type": "chat"
+    },
+    {
+      "at": 1790695970281,
+      "kind": "incoming",
+      "chatId": "120363412276485827@g.us",
+      "sender": "8736668180635",
+      "type": "chat"
+    },
+    {
+      "at": 1790695976399,
+      "kind": "incoming",
+      "chatId": "120363412276485827@g.us",
+      "sender": "8736668180635",
+      "type": "image"
+    },
+    {
+      "at": 1790695979177,
+      "kind": "incoming",
+      "chatId": "120363412276485827@g.us",
+      "sender": "8736668180635",
+      "type": "audio"
+    },
+    {
+      "at": 1790695980153,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790695985407,
+      "kind": "incoming",
+      "chatId": "120363412276485827@g.us",
+      "sender": "8736668180635",
+      "type": "chat"
+    },
+    {
+      "at": 1790695986360,
+      "kind": "incoming",
+      "chatId": "120363412276485827@g.us",
+      "sender": "8736668180635",
+      "type": "chat"
+    },
+    {
+      "at": 1790695989280,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790695991176,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790695992433,
+      "kind": "incoming",
+      "chatId": "120363412276485827@g.us",
+      "sender": "8736668180635",
+      "type": "image"
+    },
+    {
+      "at": 1790695994769,
+      "kind": "incoming",
+      "chatId": "120363412276485827@g.us",
+      "sender": "151965388517548",
+      "type": "chat"
+    },
+    {
+      "at": 1790695995409,
+      "kind": "incoming",
+      "chatId": "120363412276485827@g.us",
+      "sender": "8736668180635",
+      "type": "audio"
+    },
+    {
+      "at": 1790695996388,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790695998155,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790696000679,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "sticker"
+    },
+    {
+      "at": 1790696001773,
+      "kind": "incoming",
+      "chatId": "120363412276485827@g.us",
+      "sender": "151965388517548",
+      "type": "chat"
+    },
+    {
+      "at": 1790696008317,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790696009706,
+      "kind": "incoming",
+      "chatId": "120363412276485827@g.us",
+      "sender": "8736668180635",
+      "type": "chat"
+    },
+    {
+      "at": 1790696010656,
+      "kind": "incoming",
+      "chatId": "120363412276485827@g.us",
+      "sender": "8736668180635",
+      "type": "chat"
+    },
+    {
+      "at": 1790696016214,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790696018402,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790696026360,
+      "kind": "incoming",
+      "chatId": "120363412276485827@g.us",
+      "sender": "8736668180635",
+      "type": "chat"
+    },
+    {
+      "at": 1790696027359,
+      "kind": "incoming",
+      "chatId": "120363412276485827@g.us",
+      "sender": "8736668180635",
+      "type": "chat"
+    },
+    {
+      "at": 1790696029614,
+      "kind": "incoming",
+      "chatId": "6591878206-1310524254@g.us",
+      "sender": "217278100541532",
+      "type": "chat"
+    },
+    {
+      "at": 1790696036582,
+      "kind": "incoming",
+      "chatId": "120363412276485827@g.us",
+      "sender": "8736668180635",
+      "type": "chat"
+    },
+    {
+      "at": 1790696037535,
+      "kind": "incoming",
+      "chatId": "120363412276485827@g.us",
+      "sender": "8736668180635",
+      "type": "chat"
+    },
+    {
+      "at": 1790696038811,
+      "kind": "incoming",
+      "chatId": "6591878206-1310524254@g.us",
+      "sender": "217278100541532",
+      "type": "chat"
+    },
+    {
+      "at": 1790696044016,
+      "kind": "incoming",
+      "chatId": "120363412276485827@g.us",
+      "sender": "8736668180635",
+      "type": "chat"
+    },
+    {
+      "at": 1790696044570,
+      "kind": "incoming",
+      "chatId": "120363412276485827@g.us",
+      "sender": "151965388517548",
+      "type": "chat"
+    },
+    {
+      "at": 1790696044915,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "130468708118616",
+      "type": "chat"
+    },
+    {
+      "at": 1790696051121,
+      "kind": "incoming",
+      "chatId": "34639105260-1337426671@g.us",
+      "sender": "9140227280953",
+      "type": "chat"
+    },
+    {
+      "at": 1790696058107,
+      "kind": "initialize_error",
+      "session": "session",
+      "error": "The browser is already running for C:\\Users\\cemiv\\Desktop\\bot\\.wwebjs_auth\\session-session. Use a different `userDataDir` or stop the running browser first."
+    }
+  ],
+  "messageHistory": []
+}
